@@ -2,7 +2,7 @@ def new_hash
 
 	test_hash = Hash.new
 end
-
+actor = {name: "Robert Downey Jr"}
 def actor
 
 end
